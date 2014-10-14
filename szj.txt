@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 szj
+=======
+asdfasdfasdfsadf
+>>>>>>> master
